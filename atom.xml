@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://dhkr.fun/mob/atom.xml" rel="self"/>
+  <link href="http://pub.dhkr.fun/atom.xml" rel="self"/>
   
-  <link href="http://dhkr.fun/mob/"/>
+  <link href="http://pub.dhkr.fun/"/>
   <updated>2021-12-27T12:30:44.259Z</updated>
-  <id>http://dhkr.fun/mob/</id>
+  <id>http://pub.dhkr.fun/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://dhkr.fun/mob/2021/12/27/hello-world/"/>
-    <id>http://dhkr.fun/mob/2021/12/27/hello-world/</id>
+    <link href="http://pub.dhkr.fun/2021/12/27/hello-world/"/>
+    <id>http://pub.dhkr.fun/2021/12/27/hello-world/</id>
     <published>2021-12-27T12:30:44.259Z</published>
     <updated>2021-12-27T12:30:44.259Z</updated>
     
