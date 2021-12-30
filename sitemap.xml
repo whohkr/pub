@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://dhkr.fun/pub/search/index.html</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://dhkr.fun/pub/2021/12/27/hello-world/</loc>
     
     <lastmod>2021-12-27</lastmod>
